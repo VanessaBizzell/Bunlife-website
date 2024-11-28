@@ -3,7 +3,7 @@ body {background-color: rgba(252, 244, 193, 1);
     color:rgba(38, 94, 120, 1);
     }
 
-a {color: rgba(38, 94, 120, 1);}
+a {color:rgba(241, 185, 87, 1);}
 
 
 .foot{
@@ -11,6 +11,5 @@ background-color: rgba(235, 213, 152, 1);
 color: rgba(95, 130, 90, 1);
 }
 
-.navbar {background-color: rgba(235, 213, 152, 1);
-    color: rgba(95, 130, 90, 1);
+.navbar {background-color: rgba(95, 130, 90, 1);
     }
