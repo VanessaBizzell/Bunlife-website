@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
+<svg class="fill:[#265E78]"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -33,11 +33,11 @@
    y2="895.84003"
    gradientUnits="userSpaceOnUse">
   <stop
-     stop-color="#e00"
+     stop-color="#265E78"
      offset="0"
      id="stop2" />
   <stop
-     stop-color="#9a0000"
+     stop-color="#265E78"
      offset="1"
      id="stop4" />
 </linearGradient>
